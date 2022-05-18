@@ -47,7 +47,7 @@
 
 ## 📊 Take a look in my stats
 
-![HighLightCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=HighLightCode&show_icons=true&theme=radical)
+![Sangin's github stats](https://github-readme-stats.vercel.app/api?username=HighLightCode&show_icons=true&theme=tokyonight)
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HighLightCode&layout=compact&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
 </a>
 
