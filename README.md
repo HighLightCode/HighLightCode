@@ -20,9 +20,13 @@
 <img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="300px" align="right">
 
 - 🌎 I'm from Korea / Seoul
+
 - 👨🏻‍💻 Love programming and gaming
+
 - 💬 I like to learn something new
+
 - 💭 I dream of developing the IT sector in my region
+
 - 📧 Reach me via sangin0829@gmail.com
 
 <br>
@@ -46,10 +50,10 @@
 <br>
 
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30px"> Take a look in my stats
-
-![HighLightCode's github stats](https://github-readme-stats.vercel.app/api?username=HighLightCode&show_icons=true&theme=solarized-light)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HighLightCode&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+<a href="https://github.com/HighLightCode">
+<p align="center"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=HighLightCode&show_icons=true&theme=solarized-light">
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=HighLightCode&date_format=M%20j%5B%2C%20Y%5D"></p>
+</a>
 <br>
 <br>
 <br>
