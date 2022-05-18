@@ -19,15 +19,15 @@
 
 <img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="250px" align="right">
 
-- 🌎 I'm from Korea / Seoul
+- 🌎 I'm from **Korea / Seoul**
 
-- 👨🏻‍💻 Love programming and gaming
+- 👨🏻‍💻 Love **programming and gaming**
 
 - 💬 I like to learn something new
 
 - 💭 I dream of developing the IT sector in my region
 
-- 📧 Reach me via sangin0829@gmail.com
+- 📧 Reach me via <a href="mailto:sangin0829@gmail.com">**sangin0829@gmail.com**
 
 <br>
 <br>
