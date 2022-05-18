@@ -45,15 +45,11 @@
 <br>
 <br>
 
-## 📊 Take a look in my stats
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30px"> Take a look in my stats
 
-![Sangin's github stats](https://github-readme-stats.vercel.app/api?username=HighLightCode&show_icons=true&theme=tokyonight)
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HighLightCode&layout=compact&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
-</a>
+![HighLightCode's github stats](https://github-readme-stats.vercel.app/api?username=HighLightCode&show_icons=true&theme=solarized-light)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HighLightCode&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -63,3 +59,9 @@
 <p align="center" > 
   <i>Thanks for passing by</i><br><br>
   <i>Feel free to connect with me</i><br><br>
+<a href="mailto:sangin0829@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-sangin0829%40gmail.com-yellow">
+</a>
+<a href="https://guru.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-https%3A%2F%2Fguru.tistory.com-green">
+</a>
