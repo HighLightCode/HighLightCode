@@ -13,7 +13,7 @@
 
 <br>
 
-##  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"> About me
+##  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30" /> About me
 
 <br>
 
@@ -36,7 +36,7 @@
 <br>
 <br>
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px"> Tech stack
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30" height="30" /> Tech stack
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -49,7 +49,7 @@
 <br>
 <br>
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30px"> Take a look in my stats
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30px" height="30" /> Take a look in my stats
 <a href="https://github.com/HighLightCode">
 <p align="center"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=HighLightCode&show_icons=true&theme=solarized-light">
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=HighLightCode&date_format=M%20j%5B%2C%20Y%5D"></p>
