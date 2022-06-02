@@ -17,7 +17,7 @@
 
 <br>
 
-<img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="200px" align="right">
+<img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="200" height="200" align="right"/>
 
 - 🌎 I'm from **Korea / Seoul**
 
