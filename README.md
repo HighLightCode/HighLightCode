@@ -1,7 +1,7 @@
 
 <img width="100%" src="https://user-images.githubusercontent.com/51946218/168961440-7bc54c38-38ce-4adc-ad94-ff5fc24e93ae.gif"/>
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there! Welcome to my profile 
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30" /> Hi there! Welcome to my profile 
 
 - 🌱 I'm a Back-end developer!
 
