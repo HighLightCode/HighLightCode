@@ -10,12 +10,11 @@
 - 🤝 I also study C++ and Python for A.I
 
 
-
+<br>
 <br>
 
 ##  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30" /> About me
 
-<br>
 
 <img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="350" height="350" align="right"/>
 
@@ -29,8 +28,6 @@
 
 - 📧 Reach me via <a href="mailto:sangin0829@gmail.com">**sangin0829@gmail.com**
 
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -54,6 +51,7 @@
 <p align="center"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=HighLightCode&show_icons=true&theme=solarized-light">
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=HighLightCode&date_format=M%20j%5B%2C%20Y%5D"></p>
 </a>
+<br>
 <br>
 <br>
 <br>
