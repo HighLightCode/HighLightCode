@@ -33,8 +33,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30" height="30" /> Tech stack
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -54,6 +52,7 @@
 <p align="center"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=HighLightCode&show_icons=true&theme=solarized-light">
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=HighLightCode&date_format=M%20j%5B%2C%20Y%5D"></p>
 </a>
+<br>
 <br>
 <br>
 <br>
