@@ -10,12 +10,11 @@
 - 🤝 I also study C++ and Python for A.I
 
 
-
+<br>
 <br>
 
 ##  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30" /> About me
 
-<br>
 
 <img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="350" height="350" align="right"/>
 
